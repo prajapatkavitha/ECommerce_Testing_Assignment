@@ -1,0 +1,10 @@
+---
+Test Execution Summary
+---
+✔ Homepage category loaded successfully
+✔ Random category opened
+✔ At least 3 products visible
+✖ Out of stock item detected: [Product Name]
+✔ Cart updated successfully
+✔ Registration form error validation triggered
+✔ Screenshot captured for failed validation: screenshots/error_validation.png
