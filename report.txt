@@ -1,6 +1,6 @@
----
+
 Test Execution Summary
----
+
 ✔ Homepage category loaded successfully
 ✔ Random category opened
 ✔ At least 3 products visible
