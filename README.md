@@ -1,4 +1,3 @@
-
 #  ECommerce Testing Assignment - Selenium + Java
 
 ##  Overview
